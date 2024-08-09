@@ -1,4 +1,4 @@
-aiohttp==3.9.5
+aiohttp==3.10.2
 importlib_metadata==8.2.0
 pytest==8.3.2
 sanic==24.6.0
